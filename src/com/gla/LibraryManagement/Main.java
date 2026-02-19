@@ -4,7 +4,7 @@ class Main {
         Author book1 = new Author(
                 "Java Basics",
                 2023,
-                "Shubh Garg",
+                "Sanjeev Shukla",
                 "Java Developer and Trainer"
         );
 
